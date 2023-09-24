@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Tinglong FENG
+      value: Tinglong Feng
     - name: Date of Birth
       value: 30th January 2001
     - name: Languages
@@ -13,14 +13,14 @@
   contents:
     - title: Bachelor of Clinic Medicine (expected)
       institution: Xi'an Jiaotong University, Xi'an, China
-      year: 2024
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2019 - 2024
+     # description:
+      #  - Description 1.
+      #  - Description 2.
+       # - title: Description 3.
+       #   contents:
+        #    - Sub-description 1.
+         #   - Sub-description 2.
     #- title: Federal teaching diploma
       #institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       #year: 1900
@@ -28,56 +28,38 @@
       #  - Description 1.
       #  - Description 2.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: 2D Material Production
+      year: 2019 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Supervisor: <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
+    - title: Health Economics Modelling
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Supervisor: Prof. Fan Zhang
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/Arendelle-ftl/Landau_3_reedited">Landau_3_reedited</a>
+      year: 2022-now
+      description: A project targetting to reedit the English version of Landau Courses Vol. 3.
 
-- title: Honors and Awards
+- title: Invited Talks
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: <a href="https://www.bilibili.com/video/BV1E7411A7ZB/?vd_source=2aac4e9e3e957ce51597abac556541a3">Introduction to 2019-nCoV</a>
+      year: Feb. 19, 2020
+      
+- title: Organization
+  type: time_table
+  contents:
+    - title: Seminars
+      - title: Organizer of <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=1E4NasIePIEu8pM_">Analytical Mechanics Seminars</a>
+        year: April 2020
+    - title: United Academic Forum of Basic Science for Undergraduates
 
 - title: Academic Interests
   type: nested_list

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Arendelle-ftl.github.io/sitemap.xml

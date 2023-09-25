@@ -31,18 +31,18 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: 2D Material Production
+    - title: Graphene Production
       year: 2019 - 2021
       description: 
         - Supervisor &#58; <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>.
-        - Abstract &#58; a new method to make graphene.
+        - Abstract &#58; a new method of electrochemistry to make graphene.
        # Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
       #description: a new method to make graphene
-    - title: Health Economics Modelling
+    - title: Health Economics Modelling of Infectious Disease
       year: 2020 - 2021
       description:
         - Supervisor &#58; Prof. Fan Zhang.
-        - Abstract &#58; a new mathematical model to evaluate ways to prevent COVID-19.
+        - Abstract &#58; a new mathematical model to evaluate utilities of different ways to prevent infectious disease such as COVID-19.
         #- Supervisor: Prof. Fan Zhang
 
 - title: Open Source Projects
@@ -88,27 +88,30 @@
       description: Created and co-organized a commuication platform which would be provided for the undergraduates who span various universities while aiming at basic science research. See <a href="https://chaoli.club/index.php/5916">this website</a>.
 
 
-#-title: Outreach
- # type: time_table
-  #contents: 
-   # - title: Staff of <a href="https://qyxf.site/">Scholastic Guidance Center of Qian Xuesen Honors College, Xi'an Jiaotong University</a>.
-    #  year: 2020 - 2021
-    #- title: Deputy editor-in-chief of<a href="https://qyxf.site/zhufeng/">Journal of Zhufeng</a>.
-     # year: 2021
+- title: Outreach
+  type: time_table
+  contents: 
+    - title: Staff of <a href="https://qyxf.site/">Scholastic Guidance Center of Qian Xuesen Honors College, Xi'an Jiaotong University</a>.
+      year: 2020 - 2021
+    - title: Deputy editor-in-chief of<a href="https://qyxf.site/zhufeng/">Journal of Zhufeng</a>.
+      year: 2021
+    - title: Peer reviewer of <i>Journal of Zhufeng<\i>
+      year: 2020 - NOW
+    - title: the Executive Secretary-General of <a href="https://chaoli.club/index.php/6830">the Council of United Academic Forum of Basic Science for Undergraduates<\a>.
+      year: 2021
+#- title: Academic Interests
+ # type: nested_list
+  #contents:
+   # - title: Topic 1.
+    #  items: 
+     #   - Description 1.
+      #  - Description 2.
+    #- title: Topic 2.
+     # items:
+      #  - Description 1.
+       # - Description 2.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Hobbies
+ # type: list
+ # contents:
+ #   - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

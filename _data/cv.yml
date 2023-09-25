@@ -49,7 +49,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/Arendelle-ftl/Landau_3_reedited">Landau_3_reedited</a>
-      year: 2022-now
+      year: 2022 - now
       description: A project targetting to reedit the English version of Landau Courses Vol. 3.
 
 - title: Invited Talks
@@ -58,6 +58,7 @@
     - title: <a href="https://www.bilibili.com/video/BV1E7411A7ZB/?vd_source=2aac4e9e3e957ce51597abac556541a3">Introduction to 2019-nCoV</a>
       year: 2020
       description: A brief introduction to molecular structure and SIR models of SARS-CoV-2.
+
 - title: Seminars
   type: time_table
   contents:
@@ -78,8 +79,19 @@
           - Role &#58; Organizer.
           - Content &#58; See <a href="https://chaoli.club/index.php/6286">this website</a>
           - Reference &#58; Landau Vol. 3 and Dirac's Principle of QM.
-    #- title: United Academic Forum of Basic Science for Undergraduates
 
+-title: Organization
+  type: time_table
+    - title: United Academic Forum of Basic Science for Undergraduates
+      year: 2020 - now
+      description: Created and co-organized a commuication platform which would be provided for the undergraduates who span various universities while aiming at basic science research. See <a href="https://chaoli.club/index.php/5916">this website</a>.
+
+-title: Outreach
+  type: time_table
+  - title: Staff of <a href="https://qyxf.site/">Scholastic Guidance Center of Qian Xuesen Honors College, Xi'an Jiaotong University</a>.
+    year: 2020 - 2021
+  - title: Deputy editor-in-chief of<a href="https://qyxf.site/zhufeng/"><i>Journal of Zhufeng</i></a>.
+    year: 2021
 - title: Academic Interests
   type: nested_list
   contents:

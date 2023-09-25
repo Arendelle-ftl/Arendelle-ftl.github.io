@@ -14,13 +14,13 @@
     - title: Bachelor of Clinic Medicine (expected)
       institution: Xi'an Jiaotong University, Xi'an, China
       year: 2019 - 2024
-      description:
-        - Description 1.
-        - Description &#58; 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+   #   description:
+    #    - Description 1.
+     #   - Description &#58; 2.
+      #  - title: Description 3.
+       #   contents:
+        #    - Sub-description 1.
+         #   - Sub-description 2.
     #- title: Federal teaching diploma
       #institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       #year: 1900
@@ -34,18 +34,15 @@
     - title: 2D Material Production
       year: 2019 - 2021
       description: 
-        - Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>.
-        - Description 2.
-        - title: abstract
-          contents:
-            - a new method to make graphene.
-            - Sub-description 2.
-
+        - Supervisor &#58; <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>.
+        - Abstract &#58; a new method to make graphene.
        # Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
       #description: a new method to make graphene
-    #- title: Health Economics Modelling
-      #year: 2020 - 2021
-      #description:
+    - title: Health Economics Modelling
+      year: 2020 - 2021
+      description:
+        - Supervisor &#58; Prof. Fan Zhang.
+        - Abstract &#58; a new mathematical model to evaluate ways to prevent COVID-19.
         #- Supervisor: Prof. Fan Zhang
 
 - title: Open Source Projects

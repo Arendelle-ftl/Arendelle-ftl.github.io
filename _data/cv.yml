@@ -33,8 +33,16 @@
   contents:
     - title: 2D Material Production
       year: 2019 - 2021
-      description: Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
-      description: a new method to make graphene
+      description: 
+        - Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>.
+        - Description 2.
+        - title: abstract
+          contents:
+            - a new method to make graphene.
+            - Sub-description 2.
+
+       # Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
+      #description: a new method to make graphene
     #- title: Health Economics Modelling
       #year: 2020 - 2021
       #description:

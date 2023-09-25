@@ -82,9 +82,10 @@
 
 -title: Organization
   type: time_table
+  contents:
     - title: United Academic Forum of Basic Science for Undergraduates
       year: 2020 - now 
-      #description: Created and co-organized a commuication platform which would be provided for the undergraduates who span various universities while aiming at basic science research. See <a href="https://chaoli.club/index.php/5916">this website</a>.
+      description: Created and co-organized a commuication platform which would be provided for the undergraduates who span various universities while aiming at basic science research. See <a href="https://chaoli.club/index.php/5916">this website</a>.
 
 #-title: Outreach
  # type: time_table

@@ -88,10 +88,11 @@
 
 -title: Outreach
   type: time_table
-  - title: Staff of <a href="https://qyxf.site/">Scholastic Guidance Center of Qian Xuesen Honors College, Xi'an Jiaotong University</a>.
-    year: 2020 - 2021
-  - title: Deputy editor-in-chief of<a href="https://qyxf.site/zhufeng/">Journal of Zhufeng</a>.
-    year: 2021
+  contents: 
+    - title: Staff of <a href="https://qyxf.site/">Scholastic Guidance Center of Qian Xuesen Honors College, Xi'an Jiaotong University</a>.
+      year: 2020 - 2021
+    - title: Deputy editor-in-chief of<a href="https://qyxf.site/zhufeng/">Journal of Zhufeng</a>.
+      year: 2021
 - title: Academic Interests
   type: nested_list
   contents:

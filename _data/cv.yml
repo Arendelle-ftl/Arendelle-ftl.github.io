@@ -86,13 +86,14 @@
       year: 2020 - now
       description: Created and co-organized a commuication platform which would be provided for the undergraduates who span various universities while aiming at basic science research. See <a href="https://chaoli.club/index.php/5916">this website</a>.
 
--title: Outreach
-  type: time_table
-  contents: 
-    - title: Staff of <a href="https://qyxf.site/">Scholastic Guidance Center of Qian Xuesen Honors College, Xi'an Jiaotong University</a>.
-      year: 2020 - 2021
-    - title: Deputy editor-in-chief of<a href="https://qyxf.site/zhufeng/">Journal of Zhufeng</a>.
-      year: 2021
+#-title: Outreach
+ # type: time_table
+  #contents: 
+   # - title: Staff of <a href="https://qyxf.site/">Scholastic Guidance Center of Qian Xuesen Honors College, Xi'an Jiaotong University</a>.
+    #  year: 2020 - 2021
+    #- title: Deputy editor-in-chief of<a href="https://qyxf.site/zhufeng/">Journal of Zhufeng</a>.
+     # year: 2021
+
 - title: Academic Interests
   type: nested_list
   contents:

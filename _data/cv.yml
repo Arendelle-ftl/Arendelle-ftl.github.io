@@ -35,10 +35,10 @@
       year: 2019 - 2021
        description:
          - Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
-    - title: Health Economics Modelling
-      year: 2020 - 2021
-      description:
-        - Supervisor: Prof. Fan Zhang
+    #- title: Health Economics Modelling
+      #year: 2020 - 2021
+      #description:
+        #- Supervisor: Prof. Fan Zhang
 
 - title: Open Source Projects
   type: time_table

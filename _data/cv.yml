@@ -93,22 +93,22 @@
   contents: 
     - title: Staff of <a href="https://qyxf.site/">Scholastic Guidance Center of Qian Xuesen Honors College, Xi'an Jiaotong University</a>.
       year: 2020 - 2021
-    - title: Deputy editor-in-chief of<a href="https://qyxf.site/zhufeng/">Journal of Zhufeng</a>.
+    - title: Deputy editor-in-chief of <a href="https://qyxf.site/zhufeng/"><i>Journal of Zhufeng</i></a>.
       year: 2021
-    - title: Peer reviewer of <i>Journal of Zhufeng<\i>
+    - title: Peer reviewer of <i>Journal of Zhufeng</i>
       year: 2020 - NOW
-    - title: the Executive Secretary-General of <a href="https://chaoli.club/index.php/6830">the Council of United Academic Forum of Basic Science for Undergraduates<\a>.
+    - title: the Executive Secretary-General of <a href="https://chaoli.club/index.php/6830">the Council of United Academic Forum of Basic Science for Undergraduates</a>.
       year: 2021
-#- title: Academic Interests
- # type: nested_list
-  #contents:
-   # - title: Topic 1.
-    #  items: 
-     #   - Description 1.
-      #  - Description 2.
-    #- title: Topic 2.
-     # items:
-      #  - Description 1.
+- title: Hobbies
+  type: nested_list
+  contents:
+    - title: Reading
+      items: 
+        - European histoy.
+        - Fantacy literature.
+    - title: Linguistics
+      items:
+        - Artificial language, such as Quenya (<a href="https://chaoli.club/index.php/7156">my Quenya learning notes</a>)
        # - Description 2.
 
 #- title: Hobbies

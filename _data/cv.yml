@@ -56,13 +56,28 @@
   type: time_table
   contents:
     - title: <a href="https://www.bilibili.com/video/BV1E7411A7ZB/?vd_source=2aac4e9e3e957ce51597abac556541a3">Introduction to 2019-nCoV</a>
-      year: Feb. 19, 2020
-
-#- title: Organization
- # type: time_table
- # contents:
-  #    - title: Organizer of <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=1E4NasIePIEu8pM_">Analytical Mechanics Seminars</a>
-   #     year: April 2020
+      year: 2020
+      description: A brief introduction to molecular structure and SIR models of SARS-CoV-2.
+- title: Seminars
+  type: time_table
+  contents:
+      - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=zbwMutXT0p7epx0G">Analytical Mechanics Seminars</a>
+        year: 2020
+        description: 
+          - Role &#58; Organizer.
+          - Reference &#58; Landau Vol. 1.
+      - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRLhqlzm0Kvrm_eN83JA7vGW&si=XjciIMKxnPyQqVXB">Classical Electrodynamics Seminars</a>
+        year: 2021
+        description: 
+          - Role &#58; Organizer.
+          - Content &#58; See <a href="https://chaoli.club/index.php/6120">this website</a>
+          - Reference &#58; Landau Vol. 2.
+      - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRJNZmqB-UgudPsNZm9NH2PY&si=OvqADXr8FMV1JO14">Quantum Mechanics Seminars</a>
+        year: 2021
+        description: 
+          - Role &#58; Organizer.
+          - Content &#58; See <a href="https://chaoli.club/index.php/6286">this website</a>
+          - Reference &#58; Landau Vol. 3 and Dirac's Principle of QM.
     #- title: United Academic Forum of Basic Science for Undergraduates
 
 - title: Academic Interests

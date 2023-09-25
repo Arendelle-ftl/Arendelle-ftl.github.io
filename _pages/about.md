@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Tinglong Feng(冯廷龙 in Chinese). I am an undergraduate student from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), majoring in clinic medicine. Despite that, my academic interest is physics, and I have learned most basic mathematics and physics courses which undergraduates in [the School of Physics](https://phy.xjtu.edu.cn/English/Home.htm) should have taken, such as Calculus, Analytical Mechanics, Electrodynamics and Quantum Mechanics.
+My name is Tinglong Feng(冯廷龙 in Chinese). I am an undergraduate student from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), majoring in clinic medicine. Despite that, my academic interest is physics, and I have learned most basic mathematics and physics courses which undergraduates in [the School of Physics](https://phy.xjtu.edu.cn/English/Home.htm) should have taken, such as Calculus, Analytical Mechanics, Electrodynamics and Quantum Mechanics. [//]: # (In contrast with former policy forbidding students to enroll in inter-campus courses, I can do this in the following two semesters, so I will get grades of theoretical physics course and some advanced elective courses by my graduation.)
 
 I have research experience in 2D material production, through which I learned basic physics courses and organized seminars, and in health economics modeling, through which I got familiar with Mathematica/MATLAB. I will get my Bachelor of Medicine degree on July 2024. Now I am applying for Master/PhD in physics, biophysics or biomedical engineering to continue my education and research. 
 

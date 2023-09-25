@@ -33,12 +33,12 @@
   contents:
     - title: 2D Material Production
       year: 2019 - 2021
-      description:
-        - Supervisor: <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
-    - title: Health Economics Modelling
-      year: 2020 - 2021
-      description:
-        - Supervisor: Prof. Fan Zhang
+      # description:
+        # - Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
+    #- title: Health Economics Modelling
+      #year: 2020 - 2021
+      #description:
+        #- Supervisor: Prof. Fan Zhang
 
 - title: Open Source Projects
   type: time_table
@@ -53,12 +53,12 @@
     - title: <a href="https://www.bilibili.com/video/BV1E7411A7ZB/?vd_source=2aac4e9e3e957ce51597abac556541a3">Introduction to 2019-nCoV</a>
       year: Feb. 19, 2020
 
-- title: Organization
-  type: time_table
-  contents:
-      - title: Organizer of <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=1E4NasIePIEu8pM_">Analytical Mechanics Seminars</a>
-        year: April 2020
-    - title: United Academic Forum of Basic Science for Undergraduates
+#- title: Organization
+ # type: time_table
+ # contents:
+  #    - title: Organizer of <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=1E4NasIePIEu8pM_">Analytical Mechanics Seminars</a>
+   #     year: April 2020
+    #- title: United Academic Forum of Basic Science for Undergraduates
 
 - title: Academic Interests
   type: nested_list

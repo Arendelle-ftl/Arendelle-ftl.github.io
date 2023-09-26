@@ -267,7 +267,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['hobby', 'history', 'acedemics', 'fantacy', 'physics'] # these tags will be displayed on the front page of your blog
-display_categories: ['European history'] # these categories will be displayed on the front page of your blog
+display_categories: ['European-history'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

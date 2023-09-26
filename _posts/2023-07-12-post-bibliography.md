@@ -1,13 +1,10 @@
 ---
 layout: post
-title: a post with bibliography
+title: Nationalism in early medieval Europe
 date: 2023-07-12 09:56:00-0400
-description: an example of a blog post with bibliography
-tags: formatting bib
-categories: sample-posts
-giscus_comments: true
-related_posts: false
-related_publications: einstein1950meaning, einstein1905movement
+description: a first blog for test
+tags: hobby history
+categories: European history
 ---
 This is a test post where I shall write someting interesting about the forming of nationalism in early medieval Europe, point of which I first got in the second book of *The Penguin History of Europe*, *The Inheritance of Rome, A History of Europe from 400 to 1000* by Chris Wickham. During the Winter last year I had to stay at home due to the abrupt outbreak of COVID-19 in China so I read some history books, and this is one of them.
 

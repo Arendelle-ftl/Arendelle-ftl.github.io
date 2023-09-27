@@ -2,7 +2,7 @@
 layout: page
 title: Analytical Mechanics
 description: Analytical Mechanics Seminar
-img: assets/img/landau1.jpeg
+#img: assets/img/12.jpg
 importance: 1
 #category: work
 #related_publications: einstein1956investigations, einstein1950meaning

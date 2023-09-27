@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analytical Mechanics
-description: 
+description: Analytical Mechanics Seminar
 #img: assets/img/12.jpg
 importance: 1
 #category: work
@@ -29,5 +29,4 @@ The [original recording](https://www.bilibili.com/video/BV1FA411Y7FN/?vd_source=
 
 
 ## Notes
-
-Download
+[Download](https://Arendelle-ftl.github.io/assets/pdf/notes-on-analytical-mechianics.pdf)

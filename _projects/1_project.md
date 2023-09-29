@@ -4,7 +4,7 @@ title: Analytical Mechanics
 description: Analytical Mechanics Seminar
 #img: assets/img/12.jpg
 importance: 1
-#category: work
+category: seminar
 #related_publications: einstein1956investigations, einstein1950meaning
 ---
 

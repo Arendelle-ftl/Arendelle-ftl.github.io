@@ -23,7 +23,7 @@ I have introduced core points of analytical mechanics, i.e., **Lagrangian mechan
 *Course of Theoretical Physics Volume 1, Mechanics* by L. D. Landau
 
 
-## Recoeding
+## Recording
 
 The [original recording](https://www.bilibili.com/video/BV1FA411Y7FN/?vd_source=2aac4e9e3e957ce51597abac556541a3) and the [edited version](https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=zD4QEBkNeysguwNp)
 

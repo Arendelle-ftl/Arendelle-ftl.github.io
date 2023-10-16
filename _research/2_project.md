@@ -27,4 +27,5 @@ According to our model, the total loss of Society due to epidemics at time $$t$$
 Using Mathematica, we obtain
 
 $$\lim_{t\to \infty}\left\lvert \frac{\frac{\partial W}{\partial \alpha}}{\frac{\partial W}{\partial \beta}}\right\rvert=\frac{\beta}{1-\alpha} $$
+in  which $$\alpha$$ is recovery rate and $$\beta$$ is prevalence rate.
 

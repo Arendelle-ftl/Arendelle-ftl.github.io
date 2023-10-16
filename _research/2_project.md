@@ -15,4 +15,13 @@ importance: 2
 - Key words: Clinical treatment, preventive medicine, government funding allocation, mathematical modeling, health Economics
 - [Download](https://Arendelle-ftl.github.io/assets/pdf/research2.pdf), Password: Arendelle-ftl
 
-$$E_x=a+b$$
+According to our model, the total loss of Society due to epidemics at time $t$ is $W(t)$
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Eco.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The graph of $W(t)$
+</div>
+

@@ -22,6 +22,6 @@ According to our model, the total loss of Society due to epidemics at time $$t$$
     </div>
 </div>
 <div class="caption">
-    The graph of $$W(t), (100<=t<=200)$$ .
+    $$W(t), (100\le t\le 200)$$
 </div>
 

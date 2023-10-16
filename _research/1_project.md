@@ -14,6 +14,7 @@ importance: 1
 - Time: September 2019 - May 2021
 - Abstract: In this work, we innovated traditional electrochemical exfoliation methods to produce high-quality graphene. By **modifying an electrolytic cell with graphite sheets and employing an electric field**, we achieved better ion intercalation. Our physical modeling and Raman spectroscopy confirmed **less defective graphene** compared to conventional methods. A subsequent design using an **organic-aqueous parallel exfoliation** method yielded **thinner graphene layers**, which is supported by SEM characterization, further enhancing the quality of the produced graphene.
 - Key words: Graphene production, electrochemical exfoliation, physical modeling.
+- [Download](https://Arendelle-ftl.github.io/assets/pdf/research1.pdf), Password: Arendelle-ftl
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Raman.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -34,5 +35,5 @@ importance: 1
     </div>
 </div>
 <div class="caption">
-    Physical modelling, surface charge density on the left and pattern diagram on the right.
+    Physical modelling, surface charge density on the left and electric field on the right.
 </div>

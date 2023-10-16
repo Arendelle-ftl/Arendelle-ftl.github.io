@@ -30,9 +30,9 @@ importance: 1
         {% include figure.html path="assets/img/Phy1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Phy2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Phy2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Physical modelling, surface charge density on the left and electric field on the right.
+    Physical modelling, surface charge density on the left and pattern diagram on the right.
 </div>

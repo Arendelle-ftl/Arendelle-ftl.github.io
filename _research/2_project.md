@@ -24,4 +24,7 @@ According to our model, the total loss of Society due to epidemics at time $$t$$
 <div class="caption">
     $$W(t), (100\le t\le 200)$$
 </div>
+Using Mathematica, we obtain
+
+$$\limit_{t\to \infty}\lvert \frac{\frac{\partial W}{\partial \alpha}}{\frac{\partial W}{\partial \beta}}\rvert=\frac{\beta}{1-\alpha} $$
 

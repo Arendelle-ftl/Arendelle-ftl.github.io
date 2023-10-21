@@ -11,7 +11,9 @@ nav_order: 5
 TOEFL iBT: 95=28R+22L+22S+23W
 ## Courses
 *Note: Due to my university's previous policy, which prohibited students from attending lectures on campuses other than the one associated with their major, I am unable to enroll in core physics courses until the autumn semester of 2023.* ***Nevertheless, I will have got grades of all the courses below by my graduate.***
+
 ### Basic Math Course
+
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
 | Calculus II      | 4       | 98  |
@@ -20,6 +22,7 @@ TOEFL iBT: 95=28R+22L+22S+23W
 ｜Equations of Mathematical Physics｜ 2 ｜ pending |
 | Complex Analysis | 3 | plan to attend next semester|
 ### Theoretical Physics Course
+
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
 | Quantum Mechanics | 4 | pending |
@@ -27,12 +30,14 @@ TOEFL iBT: 95=28R+22L+22S+23W
 | Theoretical mechanics | 3 | plan to attend next semester |
 | Electrodynamics | 4 | plan to attend next semester |
 ### Advanced Elective Physics Course
+
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
 | Quantum Field Theory | 3 | pending |
 | Introductory General Relativity | 2 | pending |
 | Introduction to Group Theory | 2 | pending |
 ### Programming Course
+
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
 | Computer Programming | 3 | 83 |

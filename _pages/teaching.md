@@ -20,7 +20,7 @@ TOEFL iBT: 95=28R+22L+22S+23W
 | Calculus II      | 4       | 98  |
 | Calculus I-2   | 6.5        | 83     |
 | Probability and Statistics | 3 |  83 | 
-｜Equations of Mathematical Physics ｜ 2 ｜ pending |
+| Equations of Mathematical Physics | 2 |  pending | 
 | Complex Analysis | 3 | plan to attend next semester|
 
 

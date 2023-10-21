@@ -1,6 +1,6 @@
 ---
 layout: page
-title: seminars
+title: Seminars
 permalink: /projects/
 description: 
 nav: true

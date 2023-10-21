@@ -4,7 +4,7 @@ permalink: /grade/
 title: Grade
 description: Courses and Grades
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ## Standardized Test

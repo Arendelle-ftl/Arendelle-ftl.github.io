@@ -14,14 +14,18 @@ TOEFL iBT: 95=28R+22L+22S+23W
 
 ### Basic Math Course
 
+
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
 | Calculus II      | 4       | 98  |
 | Calculus I-2   | 6.5        | 83     |
-| Probability and Statistics | 3 |  83 |
-｜Equations of Mathematical Physics｜ 2 ｜ pending |
+| Probability and Statistics | 3 |  83 | 
+｜Equations of Mathematical Physics ｜ 2 ｜ pending |
 | Complex Analysis | 3 | plan to attend next semester|
+
+
 ### Theoretical Physics Course
+
 
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
@@ -29,13 +33,18 @@ TOEFL iBT: 95=28R+22L+22S+23W
 | Thermodynamics and Statistical Physics I | 4 | pending |
 | Theoretical mechanics | 3 | plan to attend next semester |
 | Electrodynamics | 4 | plan to attend next semester |
+
+
 ### Advanced Elective Physics Course
+
 
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
 | Quantum Field Theory | 3 | pending |
 | Introductory General Relativity | 2 | pending |
 | Introduction to Group Theory | 2 | pending |
+
+
 ### Programming Course
 
 | Courses      | Credits | Grades    |

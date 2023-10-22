@@ -48,7 +48,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/Arendelle-ftl/Landau_3_reedited">Landau_3_reedited</a>
+    - title: <a href="https://github.com/Arendelle-ftl/Landau_3_reedited" target="_self">Landau_3_reedited</a>
       year: 2022 - now
       description: A project targetting to reedit the English version of Landau Courses Vol. 3.
 

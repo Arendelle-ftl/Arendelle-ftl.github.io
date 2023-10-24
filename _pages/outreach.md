@@ -13,6 +13,12 @@ I developed and co-organized this communication platform designed for undergradu
 ### Timeline
 - December 2020: Created 'inter-university forum of science' with undergraduates from USTC and NJU, co-organized [the first research experience sharing activities](https://chaoli.club/index.php/5917).
 - February 2021: Co-organized [2021 winter seminars](https://chaoli.club/index.php/6119). Invited undergrauadtes form SJTU and UCAS to join the forum.
+	- [Gneneral Relativity Seminar](https://chaoli.club/index.php/6128). Host: [Qinxun Li](https://qxli2333.github.io/)(undergrauate from USTC, current PhD student in Utah university)
+	- [Statistical Mechanics Seminar](https://chaoli.club/index.php/6131). Host: Tingjun Zhang(undergrauate from NJU, current PhD student in Rice university), etc.
+	- [Electrodynamics Seminar](https://chaoli.club/index.php/6120). Host: I held this seminar.
 - May 2021: Formalized 'inter-university forum of science' and changed its name to United Academic Forum of Basic Science for Undergraduates.
 - August 2021: Co-organized [the second research experience sharing activities](https://chaoli.club/index.php/6577).
-- September 2021 -- February 2022: Held the position of [the Executive Secretary-General of the Council of United Academic Forum of Basic Science for Undergraduates](https://chaoli.club/index.php/6830).
+- September 2021 -- February 2022: Held the position of [the Executive Secretary-General of the Council of United Academic Forum of Basic Science for Undergraduates](https://chaoli.club/index.php/6830). During my term, I
+	- Organized the making of [Study Abroad Guide: Europe](https://chaoli.club/index.php/6978). [Download](https://Arendelle-ftl.github.io/assets/pdf/Study-Abroad-Guide-Europe.pdf)
+	- Organized 2022 winter seminars
+		- [Electrodynamics Seminar](https://chaoli.club/index.php/7053). Host: [Xiaotian Feng](https://windsky.tech/), Jingyuan Wang(undergrauates from USTC)

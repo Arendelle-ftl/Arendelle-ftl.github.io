@@ -15,4 +15,4 @@ I developed and co-organized this communication platform designed for undergradu
 - February 2021: Co-organized [2021 winter seminars](https://chaoli.club/index.php/6119). Invited undergrauadtes form SJTU and UCAS to join the forum.
 - May 2021: Formalized 'inter-university forum of science' and changed its name to United Academic Forum of Basic Science for Undergraduates.
 - August 2021: Co-organized [the second research experience sharing activities](https://chaoli.club/index.php/6577).
-- September 2021 -- February 2022: Held the position of [the Executive Secretary-General of the Council of United Academic Forum of Basic Science for Undergraduates.](https://chaoli.club/index.php/6830).
+- September 2021 -- February 2022: Held the position of [the Executive Secretary-General of the Council of United Academic Forum of Basic Science for Undergraduates](https://chaoli.club/index.php/6830).

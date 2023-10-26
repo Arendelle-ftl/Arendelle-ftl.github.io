@@ -14,7 +14,7 @@ These are short term lectures about quantum mechanics held in Spring 2021, I was
 
 ## Content
 
-I have planned to introduce several points of quantum mechanics, including basics concepts, the equations of motion, angular momentum, spin and identity of particles. **Unfortunately, my original plan was interrupted by final exams of medicine courses in that semester, so I had to suspend this seminar such that this lecture is not complelted yet. I will finish it as soon as possible.**
+I have planned to introduce several points of quantum mechanics, including basics concepts, the equations of motion, angular momentum, spin and identity of particles. **Unfortunately, my original plan was interrupted by final exams of medicine courses in that semester, so I had to suspend this seminar such that this lecture is not completed yet. I will finish it as soon as possible.**
 ## Reference
 
 *Course of Theoretical Physics Volume 3, Quantum Mehchanics (non-relativistic theory)* by L. D. Landau 

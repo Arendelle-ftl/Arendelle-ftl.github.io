@@ -21,4 +21,4 @@ I developed and co-organized this communication platform designed for undergradu
 - September 2021 -- February 2022: Held the position of [the Executive Secretary-General of the Council of United Academic Forum of Basic Science for Undergraduates](https://chaoli.club/index.php/6830). During my term, I
 	- Organized the making of [Study Abroad Guide: Europe](https://chaoli.club/index.php/6978). [Download](https://Arendelle-ftl.github.io/assets/pdf/Study-Abroad-Guide-Europe.pdf)
 	- Organized 2022 winter seminars
-		- [Electrodynamics Seminar](https://chaoli.club/index.php/7053). Host: [Xiaotian Feng](https://windsky.tech/), Jingyuan Wang( undergraduates from XJTU)
+		- [Electrodynamics Seminar](https://chaoli.club/index.php/7053). Host: [Xiaotian Feng](https://windsky.tech/), [Jingyuan Wang](https://sites.google.com/view/jingyuanwang)( undergraduates from XJTU)

@@ -7,8 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-## Download
-### Notes of Lectures
+## Notes of Lectures
 - [Notes on Analytical Mechanics](https://Arendelle-ftl.github.io/assets/pdf/notes-on-analytical-mechianics.pdf)
 	- Notes I took during Spring 2020, resources of [Analytical Mechanics Seminar](https://arendelle-ftl.github.io/projects/1_project/)
 	- Cover core content of Lagrangian mechanics and Hamiltonian mechanics 
@@ -20,7 +19,11 @@ nav_order: 7
 		- [Appendix B: The Fourier Transform](https://Arendelle-ftl.github.io/assets/pdf/Mathematical_Appendix_B.pdf)
 		- [Appendix C: Generalized Functions](https://Arendelle-ftl.github.io/assets/pdf/Mathematical_Appendix_C.pdf)
 	- Password: Arendelle-ftl
-### Other Resources
+
+
+
+
+## Other Resources
 - [English version of Laundau Vol. 3(reedited)](https://Arendelle-ftl.github.io/assets/pdf/landau_3.pdf)
 	- A reediting project I took in the first half of 2022, as an amusement when I had to stay at dormitory antteding lectures online due to COVID-19 pandemic.
 	- I had completed reediting of Chapter I-IV, VI, VIII-IX and Mathematical Appendices.

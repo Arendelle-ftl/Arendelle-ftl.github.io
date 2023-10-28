@@ -29,4 +29,4 @@ The [original recording](https://www.bilibili.com/video/BV1FA411Y7FN/?vd_source=
 
 
 ## Notes
-[Download](https://Arendelle-ftl.github.io/assets/pdf/notes-on-analytical-mechianics.pdf)
+[Download](https://Arendelle-ftl.github.io/assets/pdf/notes-on-analytical-mechianics.pdf), Password: Arendelle-ftl

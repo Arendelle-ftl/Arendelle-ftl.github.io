@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: senior High School
+    - title: Senior High School
       institution: No.1 Middle School Affiliated to Central China Normal University
       year: 2016 - 2019
     - title: Bachelor of Clinic Medicine (expected)
@@ -34,14 +34,14 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Graphene Production
+    - title: <a href="https://arendelle-ftl.github.io/research/1_project/">Graphene Production</a>
       year: 2019 - 2021
       description: 
         - Supervisor &#58; <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>.
         - Abstract &#58; a new method of electrochemistry to make graphene.
        # Supervisor <a href="https://gr.xjtu.edu.cn/en/web/wwei.mc/home">Prof. Wei Wei</a>
       #description: a new method to make graphene
-    - title: Health Economics Modelling of Infectious Disease
+    - title: <a href="https://arendelle-ftl.github.io/research/2_project/">Health Economics Modelling of Infectious Disease</a>
       year: 2020 - 2021
       description:
         - Supervisor &#58; Prof. Fan Zhang.
@@ -67,9 +67,9 @@
   contents:
       - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=zbwMutXT0p7epx0G">Analytical Mechanics Seminars</a>
         year: 2020
-        description: <a href="https://arendelle-ftl.github.io/projects/1_project/">this website</a>
+        description: 
           - Role &#58; Host.
-          - Content &#58; See
+          - Content &#58; See <a href="https://arendelle-ftl.github.io/projects/1_project/">this website</a>
           - Reference &#58; Landau Vol. 1.
       - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRLhqlzm0Kvrm_eN83JA7vGW&si=XjciIMKxnPyQqVXB">Classical Electrodynamics Seminars</a>
         year: 2021

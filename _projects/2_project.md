@@ -14,7 +14,7 @@ These are short term lectures about classical electrodynamics. The seminar is he
 
 ## Content
 
-I have introduced several points of electrodynamics, including special relativity, electromagnetic field equations, the field of moving charges and radiation damping, and the limits of applicability of classical electrodynamics.
+I have introduced several points of electrodynamics, including **special relativity, electromagnetic field equations, the field of moving charges and radiation damping, and the limits of applicability of classical electrodynamics.**
 
 ## Reference
 

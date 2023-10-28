@@ -28,3 +28,7 @@ The [original recording](https://www.bilibili.com/video/BV1K5411w7on/?vd_source=
 
 
 ## Notes
+Not completed yet, only Mathematical Appendices available now. Password: Arendelle-ftl
+- [Appendix A: Orthogonal Sets of Functions](https://Arendelle-ftl.github.io/assets/pdf/Mathematical_Appendix_A.pdf)
+- [Appendix B: The Fourier Transform](https://Arendelle-ftl.github.io/assets/pdf/Mathematical_Appendix_B.pdf)
+- [Appendix C: Generalized Functions](https://Arendelle-ftl.github.io/assets/pdf/Mathematical_Appendix_C.pdf)

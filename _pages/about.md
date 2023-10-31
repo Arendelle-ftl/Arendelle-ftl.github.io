@@ -25,7 +25,7 @@ I have research experience in [graphene production](https://arendelle-ftl.github
 
 My hobbies are reading history books and fantasy literatures. I find it fascinating to explore the uniformity and complexity in European history, and I was so attracted by the fantasy world created by Tolkien that I learned a little Quenya language.
 
-> #### Liberté, Égalité, Fraternité    
->  \- devise de la République française
+>  ***Liberté, Égalité, Fraternité***   
+> \- devise de la République française
 
 

@@ -10,6 +10,9 @@ nav_order: 4
 ## Standardized Test
 TOEFL iBT: 95=28R+22L+22S+23W
 ## Courses
+GPA for **all mathematics, physics and programming courses** (up to now): 3.30/4.30 or 84.19/100
+
+
 *Note: Due to my university's previous policy, which prohibited students from attending lectures on campuses other than the one associated with their major, I am unable to enroll in core physics courses until the autumn semester of 2023.* ***Nevertheless, according to my plan, I will have obtained grades for all the listed courses before my graduation.***
 
 ### Basic Math Course

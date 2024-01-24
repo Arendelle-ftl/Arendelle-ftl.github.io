@@ -10,7 +10,7 @@ nav_order: 4
 ## Standardized Test
 TOEFL iBT: 95=28R+22L+22S+23W
 ## Courses
-GPA for **all mathematics, physics and programming courses** (up to now): 3.30/4.30 or 84.19/100
+GPA for **all mathematics, physics and programming courses** (up to now): 3.51/4.30 or 87.02/100
 
 
 *Note: Due to my university's previous policy, which prohibited students from attending lectures on campuses other than the one associated with their major, I am unable to enroll in core physics courses until the autumn semester of 2023.* ***Nevertheless, according to my plan, I will have obtained grades for all the listed courses before my graduation.***
@@ -31,8 +31,8 @@ GPA for **all mathematics, physics and programming courses** (up to now): 3.30/4
 
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
-| Quantum Mechanics | 4 | pending |
-| Thermodynamics and Statistical Physics I | 4 | pending |
+| Quantum Mechanics | 4 | 89 |
+| Thermodynamics and Statistical Physics I | 4 | 94 |
 | Theoretical mechanics | 3 | plan to attend next semester |
 | Electrodynamics | 4 | plan to attend next semester |
 
@@ -42,9 +42,9 @@ GPA for **all mathematics, physics and programming courses** (up to now): 3.30/4
 
 | Courses      | Credits | Grades    |
 | :---:       |    :----:   |         :---: |
-| Quantum Field Theory | 3 | pending |
-| Introductory General Relativity | 2 | pending |
-| Introduction to Group Theory | 2 | pending |
+| Quantum Field Theory | 3 | A |
+| Introductory General Relativity | 2 | A |
+| Introduction to Group Theory | 2 | 92 |
 
 
 ### Programming Course

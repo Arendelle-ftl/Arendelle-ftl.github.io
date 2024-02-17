@@ -34,6 +34,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: In-in formalism for Pseudo-Hermitian system
+      year: 2024 - now
+      description:
+        - Supervisor &#58; Prof. Siyi Zhou.
+        - Abstract &#58; We try to develop a formalism for pseudo-Hermitian system.
     - title: <a href="https://arendelle-ftl.github.io/research/1_project/">Graphene Production</a>
       year: 2019 - 2021
       description: 

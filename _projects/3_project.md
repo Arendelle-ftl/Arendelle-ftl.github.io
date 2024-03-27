@@ -3,7 +3,7 @@ layout: page
 title: Quantum Mechanics
 description: Short term lectures about Quantum Mechanics, United Academic Forum of Basic Science for Undergraduates
 #img: assets/img/12.jpg
-importance: 3
+importance: 2
 #category: work
 #related_publications: einstein1956investigations, einstein1950meaning
 ---

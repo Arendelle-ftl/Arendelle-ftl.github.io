@@ -23,7 +23,8 @@ GPA for **all mathematics, physics and programming courses** (up to now): 3.51/4
 | Calculus II      | 4       | 98  |
 | Calculus I-2   | 6.5        | 83     |
 | Probability and Statistics | 3 |  83 | 
-| Complex Analysis | 3 | plan to attend next semester|
+| Complex Analysis and Integral Transformation | 3 | pending|
+| Mathematical and Physical Equation | 2 | pending|
 
 
 ### Theoretical Physics Course
@@ -33,8 +34,8 @@ GPA for **all mathematics, physics and programming courses** (up to now): 3.51/4
 | :---:       |    :----:   |         :---: |
 | Quantum Mechanics | 4 | 89 |
 | Thermodynamics and Statistical Physics I | 4 | 94 |
-| Theoretical mechanics | 3 | plan to attend next semester |
-| Electrodynamics | 4 | plan to attend next semester |
+| Theoretical mechanics | 3 | pending |
+| Electrodynamics | 4 | pending |
 
 
 ### Advanced Elective Physics Course
@@ -45,6 +46,7 @@ GPA for **all mathematics, physics and programming courses** (up to now): 3.51/4
 | Quantum Field Theory | 3 | A |
 | Introductory General Relativity | 2 | A |
 | Introduction to Group Theory | 2 | 92 |
+| Introduction to Elementary Particles | 2 | pending |
 
 
 ### Programming Course

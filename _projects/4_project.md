@@ -22,8 +22,6 @@ I plan to introduce several points of astrophysics, including **stars, binaries,
 
 *Course of Theoretical Physics Volume 5, Statistical Physics Part 1* by L. D. Landau 
 
-*Course of Theoretical Physics Volume 2, The Classical Theory of Fields* by L. D. Landau
-
 ## Recording
 
 The [original recording](https://www.youtube.com/playlist?list=PL3EsaoWcuTRLUYxIZJzMFnuVlOf5W_i1D)

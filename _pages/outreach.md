@@ -4,7 +4,7 @@ permalink: /outreach/
 title: Organization
 description: 
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## United Academic Forum of Basic Science for Undergraduates

@@ -34,11 +34,11 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://arendelle-ftl.github.io/research/3_project/">In-in formalism for Pseudo-Hermitian system</a>
+    - title: In-in formalism for Pseudo-Hermitian system
       year: 2024 - now
       description:
         - Supervisor &#58; Prof. Siyi Zhou.
-        - Abstract &#58; We try to develop the in-in formalism for pseudo-Hermitian system.
+        - Abstract &#58; We try to develop a formalism for pseudo-Hermitian system.
     - title: <a href="https://arendelle-ftl.github.io/research/1_project/">Graphene Production</a>
       year: 2019 - 2021
       description: 
@@ -78,32 +78,24 @@
 - title: Seminars
   type: time_table
   contents:
-    - title: <a href="https://www.youtube.com/playlist?list=PL3EsaoWcuTRLUYxIZJzMFnuVlOf5W_i1D">Astrophysics Seminars</a>
-        year: 2024
-        description: 
-          - Role &#58; Host.
-          - Content &#58; See <a href="https://arendelle-ftl.github.io/projects/4_project/">this website</a>
-          - Reference &#58; Weinberg's Lectures on Astrophysics, Landau Vol. 5, Landau Vol. 2.
-    - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRJNZmqB-UgudPsNZm9NH2PY&si=OvqADXr8FMV1JO14">Quantum Mechanics Seminars</a>
-        year: 2021
-        description: 
-          - Role &#58; Host.
-          - Content &#58; See <a href="https://arendelle-ftl.github.io/projects/3_project/">this website</a>
-          - Reference &#58; Landau Vol. 3 and Dirac's Principle of QM.
-    - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRLhqlzm0Kvrm_eN83JA7vGW&si=XjciIMKxnPyQqVXB">Classical Electrodynamics Seminars</a>
-        year: 2021
-        description: 
-          - Role &#58; Host.
-          - Content &#58; See <a href="https://arendelle-ftl.github.io/projects/2_project/">this website</a>
-          - Reference &#58; Landau Vol. 2.
-    - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=zbwMutXT0p7epx0G">Analytical Mechanics Seminars</a>
+      - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRIyKkAx6S-y313XJmWhS60s&si=zbwMutXT0p7epx0G">Analytical Mechanics Seminars</a>
         year: 2020
         description: 
           - Role &#58; Host.
           - Content &#58; See <a href="https://arendelle-ftl.github.io/projects/1_project/">this website</a>
           - Reference &#58; Landau Vol. 1.
-      
-     
+      - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRLhqlzm0Kvrm_eN83JA7vGW&si=XjciIMKxnPyQqVXB">Classical Electrodynamics Seminars</a>
+        year: 2021
+        description: 
+          - Role &#58; Host.
+          - Content &#58; See <a href="https://arendelle-ftl.github.io/projects/2_project/">this website</a>
+          - Reference &#58; Landau Vol. 2.
+      - title: <a href="https://youtube.com/playlist?list=PL3EsaoWcuTRJNZmqB-UgudPsNZm9NH2PY&si=OvqADXr8FMV1JO14">Quantum Mechanics Seminars</a>
+        year: 2021
+        description: 
+          - Role &#58; Host.
+          - Content &#58; See <a href="https://arendelle-ftl.github.io/projects/3_project/">this website</a>
+          - Reference &#58; Landau Vol. 3 and Dirac's Principle of QM.
 
 - title: Organization
   type: time_table

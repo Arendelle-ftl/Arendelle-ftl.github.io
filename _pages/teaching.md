@@ -10,7 +10,7 @@ nav_order: 2
 ## Standardized Test
 TOEFL iBT: 95=28R+22L+22S+23W
 ## Courses
-GPA for **all mathematics, physics and programming courses** (up to now): 3.51/4.30 or 87.02/100
+GPA for **all mathematics, physics and programming courses** (up to now): 3.55/4.30 or 87.51/100
 
 
 *Note: Due to my university's previous policy, which prohibited students from attending lectures on campuses other than the one associated with their major, I am unable to enroll in core physics courses until the autumn semester of 2023.* ***Nevertheless, according to my plan, I will have obtained grades for all the listed courses before my graduation.***
@@ -24,7 +24,7 @@ GPA for **all mathematics, physics and programming courses** (up to now): 3.51/4
 | Calculus I-2   | 6.5        | 83     |
 | Probability and Statistics | 3 |  83 | 
 | Complex Analysis and Integral Transformation | 3 | pending|
-| Mathematical and Physical Equation | 2 | pending|
+| Mathematical and Physical Equation | 2 | 98|
 
 
 ### Theoretical Physics Course

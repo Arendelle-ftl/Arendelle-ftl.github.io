@@ -15,13 +15,11 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Tinglong Feng (冯廷龙 in Chinese). I am an undergraduate student from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), majoring in clinic medicine. Despite that, my academic interest is physics, and I have independently completed most of the foundational mathematics and physics courses typically required for a physics major, including [Analytical Mechanics](https://arendelle-ftl.github.io/projects/1_project/), [Electrodynamics](https://arendelle-ftl.github.io/projects/2_project/}{Website), and [Quantum Mechanics](https://arendelle-ftl.github.io/projects/3_project/).
-
-I have research experience in [graphene production](https://arendelle-ftl.github.io/research/1_project/), during which I learned basic physics and organized seminars, and in [health economics modeling](https://arendelle-ftl.github.io/research/2_project/), where I became familiar with Mathematica and MATLAB. I will get my Bachelor of Medicine degree in July 2024. **Now I am applying for Master/PhD in physics to continue my education and research.** 
+My name is Tinglong Feng (冯廷龙 in Chinese). I am a master student from [Institute for Theoretical Physics, Utrecht University](https://www.uu.nl/en/research/institute-for-theoretical-physics). Despite getting Bachelor of Medicine from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), my academic interest is astrophysics. I have research experience in [cosmology](https://arendelle-ftl.github.io/research/3_project/), where I explored the in-in formalism for pseudo-hermitian systems. I was also attracted by [Holographic Neutron Stars](https://arxiv.org/abs/2401.01617v1) and [planet systems stability](https://arxiv.org/abs/2406.19177v1) and wrote related term papers for theoretical physics courses I attended as an undergraduate. **Now I am finding research opportunities in astrophysics area, and planning to apply for a PhD position to continue my education and research.** 
 
 My hobbies are reading history books and fantasy literatures. I find it fascinating to explore the uniformity and complexity in European history, and I was so attracted by the fantasy world created by Tolkien that I learned a little Quenya language.
 

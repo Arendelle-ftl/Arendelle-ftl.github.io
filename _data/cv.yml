@@ -11,10 +11,10 @@
 - title: Education
   type: time_table
   contents:
-    - title: Senior High School
-      institution: No.1 Middle School Affiliated to Central China Normal University
-      year: 2016 - 2019
-    - title: Bachelor of Clinic Medicine (expected)
+    - title: Master of Theoretical Physics (expected)
+      institution: Utrecht University
+      year: 2024 - 2026
+    - title: Bachelor of Clinic Medicine 
       institution: Xi'an Jiaotong University, Xi'an, China
       year: 2019 - 2024
       description:
@@ -34,8 +34,8 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://arendelle-ftl.github.io/research/3_project/">In-in formalism for Pseudo-Hermitian system</a>
-      year: 2024 - now
+    - title: <a href="https://arendelle-ftl.github.io/research/3_project/">Correlators for pseudo Hermitian systems</a>
+      year: 2024 
       description:
         - Supervisor &#58; Prof. Siyi Zhou.
         - Abstract &#58; We try to develop the in-in formalism for pseudo-Hermitian system.

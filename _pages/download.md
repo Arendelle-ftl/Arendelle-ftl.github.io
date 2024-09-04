@@ -28,3 +28,5 @@ nav_order: 7
 	- A reediting project I took in the first half of 2022, as an amusement when I had to stay at dormitory antteding lectures online due to COVID-19 pandemic.
 	- I had completed reediting of Chapter I-IV, VI, VIII-IX and Mathematical Appendices.
 	- Welcome to join [this project in Github](https://github.com/Arendelle-ftl/Landau_3_reedited)!
+- [Quenya learning notes](https://Arendelle-ftl.github.io/assets/pdf/Quenya.pdf)
+	- cover essential grammar of Quenya (not completed yet)

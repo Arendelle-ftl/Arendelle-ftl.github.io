@@ -9,6 +9,6 @@ importance: 1
 ---
 
 - Supervisor: Prof. Siyi Zhou (Chongqing University)
-- State: Submitted to arXiv. [preprint](https://arxiv.org/abs/2408.07506)
+- State: Published in JHEP.[journal](https://link.springer.com/article/10.1007/JHEP11(2024)161), [preprint](https://arxiv.org/abs/2408.07506)
 - Time: January - August 2024
 - Abstract: Pseudo-Hermitian system is a class of non-Hermitian system with Hamiltonian satisfying the condition $$\eta^{-1}H^\dagger\eta=H$$. We develop the in-in and Schwinger Keldysh formalism to calculate cosmological correlators for pseudo-Hermitian systems. We study a model consists of massive symplectic fermions coupled to the primordial curvature perturbation. The three-point function for the primordial curvature perturbation is computed up to one-loop and compared to earlier work where the loop correction comes from a massive scalar boson. The two results differ by a minus sign. Therefore, the one loop correction to the three-point function cannot be used to distinguished scalar bosons and symplectic fermions. To conclude, we discuss possibilities where the scalar bosons and symplectic fermions may be distinguished.

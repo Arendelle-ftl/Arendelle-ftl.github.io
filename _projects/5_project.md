@@ -19,7 +19,7 @@ These are short term lectures about QFT held from November 2025.
 *Quantum Field Theory: A Tourist Guide for Mathematicians* by Gerald Folland
 
 ## Schedule
-
+Every Wedensday afternoon, 14:00-15:30
 - Nov. 19th(online): Scalar field(ch1), perturbation theory(ch2)
 - Nov. 26th: QED(ch3), path integral(5.1-5.3,6.2-6.3)
 - Dec. 3rd: Non-Abelian Gauge Symmetry(ch7)

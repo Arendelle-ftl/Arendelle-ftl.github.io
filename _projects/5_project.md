@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantum Field Teory
+title: Quantum Field Theory
 description: Short term lectures about QFT
 #img: assets/img/12.jpg
 importance: 1

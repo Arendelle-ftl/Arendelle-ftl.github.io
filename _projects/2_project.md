@@ -3,7 +3,7 @@ layout: page
 title: Classical Electrodynamics
 description: Short term lectures about Classical Electrodynamics, United Academic Forum of Basic Science for Undergraduates
 #img: assets/img/12.jpg
-importance: 3
+importance: 4
 #category: work
 #related_publications: einstein1956investigations, einstein1950meaning
 ---

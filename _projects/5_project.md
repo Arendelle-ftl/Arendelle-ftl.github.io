@@ -28,7 +28,7 @@ Every Wednesday afternoon, 14:00-15:30
 
 ## Recording
 
-Not yet available
+The [recording](https://www.youtube.com/playlist?list=PL3EsaoWcuTRKlTKWMFfpoZQca7kylUI5m)
 
 ## Notes
 Not yet available

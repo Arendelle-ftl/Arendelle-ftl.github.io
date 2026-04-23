@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spherical Freezing Analogy for Cosmology
-description: 
+description:
 #img: assets/img/12.jpg
 importance: 1
 #category: work

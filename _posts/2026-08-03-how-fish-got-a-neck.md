@@ -9,6 +9,8 @@ toc:
   beginning: true
 ---
 
+The post is based on the final essay for the course Vertebrate Evolution (Tetrapods) I took at Utrecht University.
+
 The origin of the vertebrate neck and pectoral girdle marks one of the most consequential reorganizations of the vertebrate body plan. Decoupling the head from the trunk gave vertebrates cranial mobility, more efficient feeding strategies, and the ecological versatility that ultimately underpinned the success of jawed vertebrates. At the centre of that transition sits the pectoral girdle: the skeletal complex that anchors the pectoral fins or limbs to the body and defines the anatomical boundary between head and trunk.
 
 Where this structure came from is still contested after more than a century of work. The classical literature splits between a trunk-based origin from ventrolateral fin folds and a derivation from a posterior branchial (gill) arch. The debate has recently reopened in a sharp form. [Brazeau et al. (2023)](#brazeau2023pharyngeal) argued from placoderm and osteostracan fossils that the girdle arose by incorporating the sixth branchial arch into the trunk. [Miyashita et al. (2025)](#miyashita2025headtrunk) countered that the neurovascular anatomy of jawless stem gnathostomes places the pectoral attachment unambiguously in the trunk domain. [Kuroda et al. (2024)](#kuroda2024pectoral) added zebrafish fate-mapping data pointing the same way.
